@@ -22,5 +22,22 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moataz-Elmesmary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)      
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+<h3 align="left">Languages and Tools:</h3>
 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moataz-Elmesmary&layout=compact"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elmesmary&show_icons=true"/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Moataz-Elmesmary"/>
+
+
+
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
