@@ -9,6 +9,8 @@
 <h3 align="center">A detail-oriented and diligent software engineer, interested in Data Science, Machine Learning and Deep Learning.</h3>
 
 
+<h6 align="center"><img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2022</i></h6>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/MoatazElmesmary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
 
 
@@ -111,8 +113,6 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Moataz-Elmesmary&theme=react-dark)](https://github.com/Moataz-Elmesmary/github-readme-activity-graph)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /></p>
 
-
-<p align="center"><a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a></p>
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
