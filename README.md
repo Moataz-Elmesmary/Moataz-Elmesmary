@@ -115,6 +115,5 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg"/> 
 
-
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
