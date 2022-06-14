@@ -113,6 +113,8 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Moataz-Elmesmary&theme=react-dark)](https://github.com/Moataz-Elmesmary/github-readme-activity-graph)
 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg"/> 
+
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
