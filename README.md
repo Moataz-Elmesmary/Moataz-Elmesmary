@@ -16,7 +16,7 @@
 
 
 
-I`m Computer Science student | Medical Informatics Dept. I`m Interested in Data Science, Data Analysis and Machine Learning. I also create contents. I really enjoy learning languages as well as web designing.
+I`m a Computer Science student | Medical Informatics Dept. I`m Interested in Data Science, Data Analysis and Machine Learning. I also create content. I really enjoy learning languages as well as web designing.
 
 
 Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
@@ -113,7 +113,8 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Moataz-Elmesmary&theme=react-dark)](https://github.com/Moataz-Elmesmary/github-readme-activity-graph)
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg"/> 
-
+<hr>
+ 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
