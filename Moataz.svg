@@ -2,12 +2,12 @@
 	<foreignObject width="100%" height="100%">
 	<div xmlns="http://www.w3.org/1999/xhtml">
 	<style>
-        .moataz {
+        .marquee {
           height: 50px;	
           overflow: hidden;
           position: relative;
         }
-        .moataz strong {
+        .marquee strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif !important;
           color: #ff48a5;
           position: absolute;
@@ -20,7 +20,7 @@
           transform:translateX(100%);
           animation: marquee 12s linear infinite;
         }
-        @keyframes moataz {
+        @keyframes marquee {
           0%   { 
             transform: translateX(100%); 		
           }
@@ -29,7 +29,7 @@
           }
         }
       </style>
-      <div class="moataz">
+      <div class="marquee">
         <strong>  𝕋𝕙𝕒𝕟𝕜𝕤 𝔽𝕠𝕣 𝕍𝕚𝕤𝕚𝕥𝕚𝕟𝕘 𝕄𝕪 ℙ𝕣𝕠𝕗𝕚𝕝𝕖, 𝕊𝕖𝕖 𝕐𝕠𝕦 ℕ𝕖𝕩𝕥 𝕋𝕚𝕞𝕖!  </strong>
       </div>
 			
