@@ -18,7 +18,7 @@
           line-height: 50px;
           text-align: center;
           transform:translateX(100%);
-          animation: marquee 12s linear infinite;
+          animation: moataz 12s linear infinite;
         }
         @keyframes moataz {
           0%   { 
