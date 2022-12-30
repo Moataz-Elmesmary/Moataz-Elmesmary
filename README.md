@@ -66,7 +66,7 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moataz-Elmesmary)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)   
 
-<a href="mailto:MoatazElmesmary@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-MoatazElmesmary@std.mans.edu.eg-blue?style=flat-square&logo=gmail"></a><br>
+<a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
 <a href="https://www.instagram.com/moatazelmesmary/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moatazelmesmary-blue?style=flat-square&logo=instagram"></a>
 
 ### 🏆 Trophies
