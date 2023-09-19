@@ -16,7 +16,7 @@
 
 
 
-I`m a Computer Science fresh gradute | Medical Informatics Dept. I`m Interested in Data Science, Data Analysis and Machine Learning. I also create content. I really enjoy learning languages as well as web designing.
+CS Fresh Graduate | Major in Medical Informatics. I`m Interested in Data Analysis, Machine Learning and Artificial Intelligence. I also create content. I really enjoy learning languages as well as web designing.
 
 
 Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
@@ -32,7 +32,7 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
 
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
 
 - 💻 &nbsp;
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
