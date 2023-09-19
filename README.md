@@ -57,7 +57,7 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
 
-<h3 align="left">🤝🏻Connect with me: 
+<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22> Connect with me:
 
 [<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
