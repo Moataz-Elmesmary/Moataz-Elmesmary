@@ -57,13 +57,13 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22> Connect with me:
+<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
 
 [<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
 [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)
 [<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/Moataz-Elmesmary)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 
 <a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
