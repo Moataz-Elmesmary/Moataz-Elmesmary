@@ -96,11 +96,7 @@ Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analyt
   </tr>
 </table>
 
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moataz-Elmesmary&theme=tokyo-night)](https://github.com/Moataz-Elmesmary/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Moataz-Elmesmary&theme=tokyo-night)](https://github.com/Moataz-Elmesmary/github-readme-activity-graph)
 
 
 <hr>
