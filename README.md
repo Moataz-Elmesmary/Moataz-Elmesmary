@@ -18,7 +18,6 @@ CS Graduate | Major in Medical Informatics. I am deeply interested in Data Scien
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
@@ -56,7 +55,8 @@ CS Graduate | Major in Medical Informatics. I am deeply interested in Data Scien
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
 
-<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
+
+<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22> Connect with me:</h3> 
 
 [<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)
 [<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
