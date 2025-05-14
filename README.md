@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Moataz+Elmesmary+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+and+BI+Developer;Python+language+Enthusiast" alt="Headline" />
     </div>
 
-<h3 align="center">A Software engineer, passionate about Data Science, Machine Learning, Deep Learning, and Business Intelligence Development.</h3>
+<h3 align="center">Software Engineer, passionate about Data Science, Machine Learning, Deep Learning, and Business Intelligence Development.</h3>
 
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2022</i></h6>
 
