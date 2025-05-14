@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Moataz+Elmesmary+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+and+BI+Developer;Python+language+Enthusiast" alt="Headline" />
     </div>
 
-<h3 align="center">A detail-oriented and diligent software engineer, passionate about Data Science, Machine Learning, Deep Learning, and Business Intelligence.</h3>
+<h3 align="center">A Software engineer, passionate about Data Science, Machine Learning, Deep Learning, and Business Intelligence Development.</h3>
 
 <h6 align="center"><img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2022</i></h6>
 
@@ -46,6 +46,9 @@ CS Graduate | Major in Medical Informatics. I am deeply interested in Data Scien
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
   ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat-square)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![SSIS](https://img.shields.io/badge/SSIS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
+  ![SSRS](https://img.shields.io/badge/SSRS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
+  ![SSAS](https://img.shields.io/badge/SSAS-4479A1?style=flat-square&logo=sql-server&logoColor=white)
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -54,6 +57,8 @@ CS Graduate | Major in Medical Informatics. I am deeply interested in Data Scien
 
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=nosql)
+
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -96,7 +101,9 @@ CS Graduate | Major in Medical Informatics. I am deeply interested in Data Scien
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+       
 </div>
 
 
